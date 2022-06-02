@@ -1,5 +1,5 @@
 # Base image to import
-FROM python:3.6-slim
+FROM python:3.7-slim
 
 # Port number to expose
 EXPOSE 8000
